@@ -1,2 +1,4 @@
-# fcc-personal-library
-Repo for FCC's "Personal Library" project. Note: this repo contains at the moment only the file that needed to be worked on, not the full project to run.
+# fcc - "Personal Library" Project
+Note: This repo contains at the moment only the files that needed to be worked on, not the full project to run.
+
+More information about the actual project can be found on [freeCodeCamp's website](https://www.freecodecamp.org) under the Quality Assurance section of the Cirriculum.
